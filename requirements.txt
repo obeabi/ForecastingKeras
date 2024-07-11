@@ -1,0 +1,16 @@
+#keras==2.15.0
+pandas
+matplotlib
+plotly-express
+seaborn
+scikit-learn
+yfinance
+pandas_ta
+pandas_datareader
+scipy
+numpy
+pmdarima
+statsmodels
+ydata-profiling
+tensorflow
+
